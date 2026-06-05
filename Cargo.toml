@@ -1,0 +1,8 @@
+[package]
+name = "ternary-knot"
+version = "0.1.0"
+edition = "2021"
+description = "Knot theory and braid groups in ternary space — Reidemeister moves, linking numbers, Z₃ invariants"
+license = "MIT"
+
+[dependencies]
